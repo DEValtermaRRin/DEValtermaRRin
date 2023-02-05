@@ -12,11 +12,11 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
-### :information_desk_person: About Me : I am a Front End Developer 	:woman_technologist:.
+### :information_desk_person: Обо мне: Я Front End разработчик 	:woman_technologist:.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек:
 <div>
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@
 
 ---
 
-### :woman_student: Tools in studying :
+### :woman_student: В изучении :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
@@ -50,3 +50,13 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp; 
 </div>
 
+---
+
+### :fire: Моя статистика:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DEValtermaRRin&theme=onedark_duo&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEValtermaRRin&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+</div>
