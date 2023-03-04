@@ -13,6 +13,7 @@
 </div>
 
 ### :information_desk_person: Обо мне: Я Front End разработчик 	:woman_technologist:.
+Веб-разработчик с большим опытом в HTML5, CSS3, SASS, Figma, GULP, JavaScript, TypeScript, React, webpack, Babel, Eslint, Node.js, npm, GitHub и процессах разработки веб-сайтов. Активно изучаю mongoDB, Jest, Wordpress и Redux. Обладаю опытом разработки сложных проектов на React с множеством функций. Есть опыт верстки интернет-рассылок. Люблю принимать новые вызовы и работать над интересными задачами. Готова применять знания и навыки для успешной работы.
 
 ---
 
